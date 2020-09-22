@@ -1,9 +1,9 @@
 # Counter-App
 
 My First basic React JS app learned from [youtube](https://www.youtube.com/watch?v=Ke90Tje7VS0&list=LLdd2XVyPn6HP4cXYNre51RA&index=1) 🔥🍻
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
 
 ## Available Scripts
 
